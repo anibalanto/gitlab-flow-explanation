@@ -1,4 +1,4 @@
-# gitlab-flow-explanation
+# flujo de trabajo
 
 tenemos
 
